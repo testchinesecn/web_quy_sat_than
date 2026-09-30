@@ -2,6 +2,6 @@
 window.GAME_LINKS = {
   pc: "",
   android: "",
-  ios: "",
+  ios: "https://testflight.apple.com/join/eZZXRQNB",
   zalo: "https://zalo.me/g/iumbtl736"
 };
