@@ -1,6 +1,6 @@
-// DÁN LINK THẬT CỦA BẠN VÀO 3 DÒNG DƯỚI.
+// Link tải game / cộng đồng.
 window.GAME_LINKS = {
   pc: "",
   android: "",
-  zalo: ""
+  zalo: "https://zalo.me/g/iumbtl736"
 };
