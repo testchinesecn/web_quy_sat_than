@@ -42,10 +42,11 @@ const links = window.GAME_LINKS || {};
 function bind(selector,key){
   $$(selector).forEach(a => a.addEventListener('click', e => {
     const url=links[key];
-    if(!url){ e.preventDefault(); showToast('Chưa gắn link '+key+'. Mở assets/js/config.js để dán link thật.'); return; }
+    if(!url){ e.preventDefault(); showToast('Chưa có bản cập nhật mới'); return; }
     e.preventDefault(); window.open(url,'_blank','noopener');
   }));
 }
 bind('.link-download-pc','pc');
 bind('.link-download-android','android');
+bind('.link-download-ios','ios');
 bind('.link-zalo','zalo');
