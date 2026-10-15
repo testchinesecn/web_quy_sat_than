@@ -1,7 +1,7 @@
 // Link tải game / cộng đồng.
 window.GAME_LINKS = {
-  pc: "https://drive.google.com/file/d/1yKvIgHNuvU4b1sGaACmeFU1_STJDaS2i/view?usp=sharing",
-  android: "https://drive.google.com/file/d/14lBHwItdu3Q_ekOc7LZnLqi7DBeN1dfQ/view?usp=sharing",
+  pc: "https://drive.google.com/file/d/1aDoTzV5TnwyQ-0VgWjQXjJvmk7gAHe44/view?usp=sharing",
+  android: "https://drive.google.com/file/d/1iGKa99CHopA0Dj8FXuwXv_zfqXPmLoGt/view?usp=sharing",
   ios: "https://testflight.apple.com/join/PCE8HB4C",
   zalo: "https://zalo.me/g/iumbtl736"
 };
